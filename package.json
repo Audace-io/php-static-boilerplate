@@ -1,6 +1,6 @@
 {
   "name": "php-static-boilerplate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "repository": "git@github.com:Audace-io/php-static-boilerplate.git",
   "author": "Taigah <taiah.dev@gmail.com>",
