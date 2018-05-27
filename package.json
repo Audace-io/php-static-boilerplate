@@ -5,7 +5,9 @@
   "repository": "git@github.com:Audace-io/php-static-boilerplate.git",
   "author": "Taigah <taiah.dev@gmail.com>",
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "run-sequence": "^2.2.1"
+  },
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-sass": "^4.0.1",
